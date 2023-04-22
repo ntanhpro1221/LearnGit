@@ -2,5 +2,5 @@
 #include<iostream>
 main()
 {
-    std::cout<<"ihihi";
+    // std::cout<<"ihihi";
 }
