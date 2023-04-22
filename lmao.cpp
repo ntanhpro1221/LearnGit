@@ -2,4 +2,5 @@
 main()
 {
     int lmao;
+    int lmurh;
 }
